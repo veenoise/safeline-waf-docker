@@ -61,3 +61,17 @@
 | `SUBNET_PREFIX` | `172.30.30` | Internal Docker network subnet prefix |
 | `IMAGE_TAG` | `latest` | Docker image tag |
 | `MGT_PROXY` | `0` | The number of console proxy layers |
+
+## Screenshots
+
+![Dashboard](images/safeline_dashboard.png)
+![Security Posture](images/safeline_security_posture.png)
+![Attacks](images/safeline_attacks.png)
+![Attack Blocked](images/safeline_attack_blocked.png)
+![SQLi](images/safeline_sqli.png)
+![HTTP Flood](images/safeline_http_flood.png)
+![IP Block](images/safeline_ip_block.png)
+![HTTP Header](images/safeline_http_header.png)
+![HTML Dynamic Encryption](images/safeline_html_dynamic_encryption.png)
+![Application](images/safeline_application.png)
+![WordPress](images/safeline_wordpress.png)
